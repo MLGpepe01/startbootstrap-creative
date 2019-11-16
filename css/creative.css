@@ -7,7 +7,9 @@ html {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
-
+.Resume01{
+    position: center;
+}
 hr {
   max-width: 50px;
   border-width: 3px;
